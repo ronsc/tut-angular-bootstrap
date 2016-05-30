@@ -1,0 +1,21 @@
+{
+  "name": "tut-angular-bootstrap",
+  "description": "share develop front end web by angular+bootstrap",
+  "main": "index.js",
+  "authors": [
+    "ronsc <fdroncpe17@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ronsc/tut-angular-bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.6"
+  }
+}
